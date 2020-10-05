@@ -12,7 +12,9 @@
 To get a local copy up and running follow these simple example steps.
 
 To get a local copy up and running follow these simple example steps.
-- git clone git@github.com:trekab/js-testing-practice.git
+- git clone git@github.com:ignatius22/js-test-practice.git
+
+
 
 Then you browse to the folder and exucute the following commands
 - cd js-testing-practice
