@@ -1,4 +1,4 @@
-# JS Testing Practice
+# JS Test Practice
 
 > In this project we practice writing test for some JS functions using the Jest testing framework. [Project description](https://www.theodinproject.com/courses/javascript/lessons/testing-practice) 
 
